@@ -14,3 +14,7 @@ So, after reading about the [100 Days of Code challenge](https://medium.freecode
 * The Code must be pushed towards Github daily.
 * A daily log must be maintained on Github with links to the project.
 * No more than 2 days can be missed. For every day missed, compensation must be made the very next day.
+
+##Note
+* Inspiration from [@kallaway's 100-day-of-code](https://github.com/Kallaway/100-days-of-code)
+* Feel free to hit me up on [Facebook](www.facebook.com/nab331)
