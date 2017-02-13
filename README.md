@@ -17,4 +17,4 @@ So, after reading about the [100 Days of Code challenge](https://medium.freecode
 
 ##Note
 * Inspiration from [@kallaway's 100-day-of-code](https://github.com/Kallaway/100-days-of-code)
-* Feel free to hit me up on [Facebook](www.facebook.com/nab331)
+* Feel free to hit me up on [Facebook](https://www.facebook.com/nab331)
